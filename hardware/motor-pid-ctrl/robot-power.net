@@ -1,0 +1,465 @@
+# EESchema Netlist Version 1.1 created  7/21/2012 12:55:46 AM
+(
+ ( /50097315 Trafo1VA - 6V
+  ( 1 N-000058 )
+  ( 2 N-000053 )
+  ( 3 N-000047 )
+  ( 4 N-000002 )
+ )
+ ( /50096F67 BridgeRectif BR1 BRIDGE
+  ( 1 N-000043 )
+  ( 2 N-000048 )
+  ( 3 N-000042 )
+  ( 4 N-000018 )
+ )
+ ( /50096F5C BridgeRectif BR2 BRIDGE
+  ( 1 GND )
+  ( 2 N-000044 )
+  ( 3 N-000054 )
+  ( 4 N-000041 )
+ )
+ ( /50096F5F BridgeRectif BR3 BRIDGE
+  ( 1 GND )
+  ( 2 N-000047 )
+  ( 3 N-000001 )
+  ( 4 N-000002 )
+ )
+ ( /500999C5 C2 C1 4700uF
+  ( 1 N-000054 )
+  ( 2 GND )
+ )
+ ( /50099B6E C2 C2 1uF
+  ( 1 N-000054 )
+  ( 2 /VCC )
+ )
+ ( /50098055 C2 C3 22nF
+  ( 1 N-000004 )
+  ( 2 N-000005 )
+ )
+ ( /5009819C C2 C4 15nF
+  ( 1 N-000057 )
+  ( 2 N-000013 )
+ )
+ ( /500981A1 C2 C5 15nF
+  ( 1 N-000004 )
+  ( 2 N-000052 )
+ )
+ ( /50098296 C2 C6 220nF
+  ( 1 N-000012 )
+  ( 2 GND )
+ )
+ ( /50099A83 C2 C7 22pF
+  ( 1 N-000009 )
+  ( 2 GND )
+ )
+ ( /50099A7E C2 C8 22pF
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /50098721 C2 C9 2.2nF
+  ( 1 N-000059 )
+  ( 2 GND )
+ )
+ ( /50099552 C2 C10 22uF
+  ( 1 N-000051 )
+  ( 2 GND )
+ )
+ ( /50097F63 C2 C11 1uF
+  ( 1 GND )
+  ( 2 N-000027 )
+ )
+ ( /50097EFC C2 C12 1uF
+  ( 1 GND )
+  ( 2 N-000029 )
+ )
+ ( /500981E0 C2 D1 BYW178-TR
+  ( 1 GND )
+  ( 2 N-000013 )
+ )
+ ( /500981EC C2 D2 BYW178-TR
+  ( 1 GND )
+  ( 2 N-000052 )
+ )
+ ( /50095F44 DIL28 IC1 ATMEGA328-P
+  ( 1 /reset )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 N-000014 )
+  ( 6 N-000030 )
+  ( 7 /VCC )
+  ( 8 GND )
+  ( 9 N-000008 )
+  ( 10 N-000009 )
+  ( 11 ? )
+  ( 12 N-000055 )
+  ( 13 N-000025 )
+  ( 14 ? )
+  ( 15 N-000039 )
+  ( 16 ? )
+  ( 17 /mosi )
+  ( 18 /miso )
+  ( 19 /sck )
+  ( 20 N-000029 )
+  ( 21 N-000027 )
+  ( 22 GND )
+  ( 23 N-000051 )
+  ( 24 N-000059 )
+  ( 25 /pc2 )
+  ( 26 /pc3 )
+  ( 27 /pc4 )
+  ( 28 /pc5 )
+ )
+ ( /50096B05 DIP-18__300 IC2 L6202
+  ( 1 N-000017 )
+  ( 2 /VCC )
+  ( 3 ? )
+  ( 4 GND )
+  ( 5 GND )
+  ( 6 GND )
+  ( 7 ? )
+  ( 8 N-000057 )
+  ( 9 N-000054 )
+  ( 10 N-000004 )
+  ( 11 N-000052 )
+  ( 12 /mosi )
+  ( 13 GND )
+  ( 14 GND )
+  ( 15 GND )
+  ( 16 N-000014 )
+  ( 17 N-000013 )
+  ( 18 N-000012 )
+ )
+ ( /5009A0CA C1 IRLED1 TSKS5400S
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /50099783 C1 JP1 Reset
+  ( 1 GND )
+  ( 2 /reset )
+ )
+ ( /50097EB6 C2 L1 10uH
+  ( 1 /VCC )
+  ( 2 N-000029 )
+ )
+ ( /500972DA 4pwrConn M1 MOTOR
+  ( 1 N-000042 )
+  ( 2 N-000043 )
+  ( 3 N-000057 )
+  ( 4 N-000004 )
+ )
+ ( /50099D40 DIP-8__300 OC1 CNY74-2H
+  ( 1 N-000050 )
+  ( 2 N-000049 )
+  ( 3 N-000050 )
+  ( 4 N-000049 )
+  ( 5 GND )
+  ( 6 N-000025 )
+  ( 7 N-000055 )
+  ( 8 GND )
+ )
+ ( /500973B7 2pwrConn P1 MAINS
+  ( 1 N-000048 )
+  ( 2 N-000058 )
+ )
+ ( /5009743C PIN_ARRAY-6X1 P2 AVR_ISP
+  ( 1 /reset )
+  ( 2 /sck )
+  ( 3 /miso )
+  ( 4 /mosi )
+  ( 5 /VCC )
+  ( 6 GND )
+ )
+ ( /50097463 PIN_ARRAY_4x1 P3 IO_PORTS
+  ( 1 /pc2 )
+  ( 2 /pc3 )
+  ( 3 /pc4 )
+  ( 4 /pc5 )
+ )
+ ( /5009A0F0 PIN_ARRAY_3X1 Q1 BP103
+  ( 1 GND )
+  ( 3 N-000007 )
+ )
+ ( /50099E6C C2 R1 22K
+  ( 1 N-000048 )
+  ( 2 N-000049 )
+ )
+ ( /50099E78 C2 R2 22K
+  ( 1 N-000053 )
+  ( 2 N-000050 )
+ )
+ ( /5009A129 C2 R3 220
+  ( 1 N-000030 )
+  ( 2 N-000007 )
+ )
+ ( /5009A124 C2 R4 220
+  ( 1 /VCC )
+  ( 2 N-000006 )
+ )
+ ( /5009805C C2 R5 10
+  ( 1 N-000005 )
+  ( 2 N-000057 )
+ )
+ ( /50099441 C2 R6 1
+  ( 1 N-000017 )
+  ( 2 N-000003 )
+ )
+ ( /5009943D C2 R7 1
+  ( 1 N-000003 )
+  ( 2 GND )
+ )
+ ( /50099510 C2 R8 1K
+  ( 1 N-000051 )
+  ( 2 N-000017 )
+ )
+ ( /5009992E C2 R9 10K
+  ( 1 /reset )
+  ( 2 /VCC )
+ )
+ ( /50099E0F C2 R10 10K
+  ( 1 /VCC )
+  ( 2 N-000025 )
+ )
+ ( /50099E14 C2 R11 10K
+  ( 1 /VCC )
+  ( 2 N-000055 )
+ )
+ ( /50097D09 C2 R12 220
+  ( 1 N-000039 )
+  ( 2 N-000040 )
+ )
+ ( /5009873B C2 R13 4.7K
+  ( 1 N-000001 )
+  ( 2 GND )
+ )
+ ( /50098733 C2 R14 47K
+  ( 1 N-000001 )
+  ( 2 N-000059 )
+ )
+ ( /500989E0 C2 R15 1K
+  ( 1 N-000059 )
+  ( 2 GND )
+ )
+ ( /50098658 C2 R16 1
+  ( 1 N-000058 )
+  ( 2 N-000053 )
+ )
+ ( /50096BEA ssr SSR1 S202S01
+  ( 1 N-000040 )
+  ( 2 GND )
+  ( 3 ? )
+  ( 4 N-000053 )
+  ( 5 ? )
+  ( 6 N-000018 )
+ )
+ ( /500972FE Trafo30VA T1 30VA
+  ( 1 N-000058 )
+  ( 2 ? )
+  ( 3 N-000048 )
+  ( 4 N-000041 )
+  ( 5 N-000045 )
+  ( 6 N-000045 )
+  ( 7 N-000044 )
+ )
+ ( /50099A42 PIN_ARRAY_3X1 X1 18.432Mhz
+  ( 1 N-000009 )
+  ( 3 N-000008 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component IC1
+ 28DIP-ELL600
+ 28dip600
+$endlist
+$component IRLED1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R16
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
