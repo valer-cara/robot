@@ -1,0 +1,5 @@
+Some KiCad versions don't have the ATMEGA328-P component.
+I've included the atmega library verion I used in the ./libs/ directory here.
+
+
+
