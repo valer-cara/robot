@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Wed 22 Aug 2012 04:23:13 PM EEST
+# EESchema Netlist Version 1.1 created  Wed 22 Aug 2012 10:55:14 PM EEST
 (
  ( /5011602E BridgeRectif BR1 BR
   ( 1 N-000024 )
@@ -18,7 +18,7 @@
   ( 3 N-000010 )
   ( 4 N-000046 )
  )
- ( /500999C5 C2V10 C1 4700uF
+ ( /500999C5 bigC C1 4700uF
   ( 1 N-000015 )
   ( 2 GND )
  )
