@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 7/26/2012 5:44:07 PM
+Cmp-Mod V01 Genere par PcbNew le Wed 22 Aug 2012 07:24:37 PM EEST
 
 BeginCmp
 TimeStamp = /5011602E;
@@ -25,7 +25,7 @@ BeginCmp
 TimeStamp = /500999C5;
 Reference = C1;
 ValeurCmp = 4700uF;
-IdModule  = C2V10;
+IdModule  = bigC;
 EndCmp
 
 BeginCmp
@@ -134,6 +134,13 @@ IdModule  = DIP-18__300;
 EndCmp
 
 BeginCmp
+TimeStamp = /50096713;
+Reference = IC4;
+ValeurCmp = LM2936-H;
+IdModule  = 8smd;
+EndCmp
+
+BeginCmp
 TimeStamp = /5009A0CA;
 Reference = IRLED1;
 ValeurCmp = TSKS5400S;
@@ -193,7 +200,7 @@ BeginCmp
 TimeStamp = /5009A0F0;
 Reference = Q1;
 ValeurCmp = BP103;
-IdModule  = pin_array_3x2;
+IdModule  = PIN_ARRAY_3X1;
 EndCmp
 
 BeginCmp
