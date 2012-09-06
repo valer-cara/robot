@@ -30,14 +30,17 @@ Is my design safe, or should I modify anything? Also, will 0.5W resistors work?
 
 
 
-### Schematic
+## Schematic
 ![Controller Schematic](http://griminal.net/robot/robot-power.jpg)
 
 ### Board Layout
 ![Board Layout](http://griminal.net/robot/robot-power-brd.jpg)
 
 ### Current looks of the board
+#### Front side: looks kind of empty, still need to add some components
 ![Front](http://griminal.net/robot/robot-board-front.jpg)
+
+#### Back side: Got a pretty nice print with UV
 ![Back](http://griminal.net/robot/robot-board-back.jpg)
 
 
