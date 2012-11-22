@@ -1,7 +1,7 @@
-# Robot
+# Robot [in progress]
 
-Big Goal: 6 axis robot arm. Hardware, software and docs.   
-Current Goal: Finish the controller to drive a motor got from a kitchen mixer/blender (for some extra power). 
+Big Goal: 6 axis robot arm. Hardware, software and docs
+Current Goal: Finish the controller to drive a motor got from a kitchen mixer/blender (for some extra power).
 
 ## What we have (very short overview)
 
